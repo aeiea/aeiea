@@ -6,5 +6,5 @@
 ![aeiea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeiea&show_icons=true&hide_border=true&layout=compact)
 
 ### I'm currently working on...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeiea&repo=mabye_forknight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeiea&repo=maybe-forknight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeiea&repo=autoupdateonfolder-workflow)](https://github.com/anuraghazra/github-readme-stats)
