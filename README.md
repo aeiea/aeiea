@@ -4,6 +4,7 @@
 [![Aeiea's GitHub Streak](https://streak-stats.demolab.com/?user=aeiea)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![aeiea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeiea&show_icons=true&hide_border=true&layout=compact)
 
 ### I'm currently working on...
