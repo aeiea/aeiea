@@ -1,11 +1,13 @@
 > i like palindromes - aeiea, 2023
 
 hobbyist semi-fullstack dev
+
 languages
 - python
 - cpp
 - js
 - java
+- english
 
 ![Aeiea's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeiea&show_icons=true)
 [![Aeiea's GitHub Streak](https://streak-stats.demolab.com/?user=aeiea)](https://git.io/streak-stats)
