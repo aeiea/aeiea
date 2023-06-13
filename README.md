@@ -12,7 +12,9 @@ languages
 ![Aeiea's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeiea&show_icons=true)
 
 note: i made a farmer so the github streak is innacurate
-[![Aeiea's GitHub Streak](https://streak-stats.demolab.com/?user=aeiea)](https://git.io/streak-stats)
+[![Aeiea's GitHub Streak]
+
+(https://streak-stats.demolab.com/?user=aeiea)](https://git.io/streak-stats)
 
 ![aeiea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeiea&show_icons=true&hide_border=true&layout=compact)
 
